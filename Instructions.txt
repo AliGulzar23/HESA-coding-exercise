@@ -1,0 +1,9 @@
+Each bee will have their information displayed as 
+ID:
+Health:
+Status
+
+When the solution is running a button nameed "Damage" will reduce the health of each bee and update their status.
+Eventually the health of every bee will remain constant as all bees are condiered dead and no further health is deducted.
+
+Due to the time limit, I did not get much of a chance to have the application runable and will therefore require an IDE to run it. 
